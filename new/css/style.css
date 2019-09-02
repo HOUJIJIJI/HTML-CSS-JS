@@ -1,0 +1,77 @@
+.navbar-default{
+    margin-bottom: 20px;
+}
+a:hover{
+    text-decoration: none;
+}
+.side-bar .list-group-item{
+    border: 0;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+img{
+    display: block;
+    max-width: 100%;
+    border-radius: 5px; 
+}
+.new-list-item{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #000;
+}
+.new-list-item .title{
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.new-list-item .info{
+    color: #999;
+}
+.avatar{
+    display: inline-block;
+}
+.avatar img{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+}
+.side-bar-card{
+    background: rgba(0, 0, 0, .1);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.side-bar-card .what{
+    margin-top: 5px;
+}
+.side-bar-card .card-title,
+.side-bar-card .list .item{
+    padding: 10px 15px;
+}
+.side-bar-card .card-title{
+    font-size: 18px;
+    font-weight: bold;
+}
+.side-bar-card .list .item:hover{
+    background: rgba(0, 0, 0, .1);
+}
+.list .item .desc{
+    color: #999;
+}
+.news-status{
+    color: #999;
+}
+.news-status .label{
+    opacity: 50%;
+}
+.NT{
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.container-small{
+    max-width: 500px;
+}
